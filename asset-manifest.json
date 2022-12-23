@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-promauto/static/css/main.c3f26478.css",
+    "main.js": "/test-promauto/static/js/main.4975b658.js",
+    "static/media/done.svg": "/test-promauto/static/media/done.202e87de6cf794802c6a.svg",
+    "index.html": "/test-promauto/index.html",
+    "main.c3f26478.css.map": "/test-promauto/static/css/main.c3f26478.css.map",
+    "main.4975b658.js.map": "/test-promauto/static/js/main.4975b658.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3f26478.css",
+    "static/js/main.4975b658.js"
+  ]
+}
